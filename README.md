@@ -1,6 +1,6 @@
 # Music and Mental Health Analysis
 
-A compact exploratory analysis of a self-reported survey on listening habits and mental health measures.
+Complete exploratory analysis of a self-reported survey on listening habits and mental health measures.
 
 ## Contents
 
